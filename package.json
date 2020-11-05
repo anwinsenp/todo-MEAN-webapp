@@ -1,0 +1,8 @@
+{
+  "name": "todo-MEAN-webapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:anwinsenp/todo-MEAN-webapp.git",
+  "author": "Anwin Sen Padma <anwinsenp@gmail.com>",
+  "license": "MIT"
+}
