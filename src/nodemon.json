@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "mean-admin",
+        "MONGO_PASSWORD": "mean_password",
+        "MONGO_DB": "mean_db"
+    }
+}
